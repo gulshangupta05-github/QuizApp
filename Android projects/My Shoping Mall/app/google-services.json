@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117175685658",
+    "project_id": "e-commerceapp-62594",
+    "storage_bucket": "e-commerceapp-62594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117175685658:android:06a6d98a2a6b80ab9937a3",
+        "android_client_info": {
+          "package_name": "com.example.myshopingmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117175685658-sagj8o493jgeuqh2buh3vd3ia0m7hg5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKqi8td7A6THOakH523Db7WjTCyCgdRXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117175685658-sagj8o493jgeuqh2buh3vd3ia0m7hg5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

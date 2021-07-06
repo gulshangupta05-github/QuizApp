@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item>
+    <shape>
+        <solid android:color="@color/design_default_color_error"/>
+    </shape>
+</item>
+    <item>
+        <bitmap
+            android:src="@drawable/my_mall" android:gravity="center"/>
+    </item>
+</layer-list>
